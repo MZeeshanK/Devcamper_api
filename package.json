@@ -4,8 +4,8 @@
   "description": "This is a backend for devcamper api",
   "main": "server.js",
   "scripts": {
-    "start": "NODE_ENV=production node server",
-    "dev": "nodemon server"
+    "start": "NODE_ENV=production node server.js",
+    "dev": "nodemon server.js"
   },
   "author": "MZeeshanK",
   "license": "ISC",
