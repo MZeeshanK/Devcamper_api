@@ -23,3 +23,10 @@ npm start
 ```
 
 - Version 1.0.0
+
+# To Test Routes
+
+```
+# Visit Site
+https://devcamper-me.herokuapp.com/
+```
